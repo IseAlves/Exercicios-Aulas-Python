@@ -1,0 +1,4 @@
+for i in range(4, 8):
+    print(i)
+print('n')
+# Apresente o resultado: 4, 5, 6, 7, n
